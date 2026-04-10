@@ -265,9 +265,3 @@ From your iPhone:
 ## License
 
 MIT (or your preferred license).
-
----
-
-[^imessagekit-server]: iMessage‑Kit is a type‑safe macOS SDK/server that exposes the Messages database and sending APIs so Node/TypeScript apps can send and receive iMessages programmatically.[web:17][web:38][web:41]  
-[^advanced-kit]: `@photon-ai/advanced-imessage-kit` is the TypeScript SDK for connecting to the iMessage‑Kit server, listening to incoming messages, and sending replies from Node.[web:35][web:36][web:37][web:40]  
-[^photon]: Photon provides the agent framework and memory layer that can be used to enhance reasoning and personalization for this iMessage agent.[web:4][web:11]
